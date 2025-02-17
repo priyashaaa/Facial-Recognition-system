@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"files.autoSave": "off",
+		"debug.allowBreakpointsEverywhere": true
+	}
+}
